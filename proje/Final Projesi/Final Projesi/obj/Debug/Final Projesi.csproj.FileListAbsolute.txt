@@ -1,0 +1,28 @@
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\bin\Debug\Final Projesi.exe.config
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\bin\Debug\Final Projesi.exe
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\bin\Debug\Final Projesi.pdb
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final Projesi.csprojAssemblyReference.cache
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.Form1.resources
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.Properties.Resources.resources
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final Projesi.csproj.GenerateResource.cache
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final Projesi.csproj.CoreCompileInputs.cache
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final Projesi.exe
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final Projesi.pdb
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.FilmEkle.resources
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.biletkes.resources
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.Salonekle.resources
+C:\Users\emirr\source\repos\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.seansekle.resources
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\bin\Debug\Final Projesi.exe.config
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\bin\Debug\Final Projesi.exe
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\bin\Debug\Final Projesi.pdb
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final Projesi.csproj.AssemblyReference.cache
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.Form1.resources
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.FilmEkle.resources
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.biletkes.resources
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.Properties.Resources.resources
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.Salonekle.resources
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final_Projesi.seansekle.resources
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final Projesi.csproj.GenerateResource.cache
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final Projesi.csproj.CoreCompileInputs.cache
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final Projesi.exe
+C:\Users\emirr\OneDrive\Masaüstü\genel\Yeni klasör\proje\Final Projesi\Final Projesi\obj\Debug\Final Projesi.pdb
